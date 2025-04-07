@@ -25,4 +25,4 @@ To run a solution, you can follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/adventOfCode.git
+   git clone git@github.com:Abdelkaderbzz/adventOfCode.git
